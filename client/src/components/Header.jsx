@@ -13,7 +13,7 @@ import {
   MenuListItemLink,
   GiftSvg,
   SearchIcon
-} from 'Header.styles.jsx';
+} from './Header.styles.jsx';
 
 const menuItems = [
   'Everyday Finds',
